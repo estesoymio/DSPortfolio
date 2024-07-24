@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1MWsw0VHkPvHHgu9_47JNbIrIEeUWHnz8
 """
 
-# !pip install streamlit
 
-# !pip install boto3
 
 """# Deploy on Streamlit"""
 
